@@ -1,0 +1,366 @@
+Mono path[0] = 'C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Managed'
+Mono config path = 'C:/Users/johna/OneDrive/Documents/RimWorld/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.30f1 (e8c891080a1f)
+[Subsystems] Discovering subsystems at path C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 SUPER (ID=0x2187)
+    Vendor:   
+    VRAM:     3955 MB
+    Driver:   30.0.15.1277
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.092 seconds
+<RI> Initializing input.
+
+<RI> Input initialized.
+
+<RI> Initialized touch support.
+
+UnloadTime: 1.601600 ms
+Command line arguments: -AUTH_LOGIN=unused -AUTH_PASSWORD=a6c71be13206423fbdd85661952f499c -AUTH_TYPE=exchangecode -epicapp=12915f06bb3442eeb414813e74af7df3 -epicenv=Prod -EpicPortal -epicusername=\\\\"daedalus 1\\\\" -epicuserid=78784f13a1d24e189128e8b76e624220 -epiclocale=en -epicsandboxid=7051eadbb8c2435caf32a9bc0dc17936
+RimWorld 1.4.3613 rev630
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod 1279012058(1) is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod certifi is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod compressors is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod database is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod google is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod images is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod lxml is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod net35 is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod net45 is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod net472 is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod net48 is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod net5.0 is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod net6.0 is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod netcoreapp3.0 is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod netcoreapp3.1 is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod numpy is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod PIL is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod psutil is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod PyQt5 is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod pytz is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod resources is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried loading mod with the same packageId multiple times: PeteTimesSix.SimpleSidearms. Ignoring the duplicates.
+C:\Users\johna\OneDrive\Documents\RimWorld\Mods\SimpleSidearms
+C:\Users\johna\OneDrive\Documents\RimWorld\Mods\927155256 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod translations is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod updater is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B109528520.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B105BADC30.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B1096F1B30.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B1098A53A0.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B1098AA9B0.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B10951A060.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B1098E3E00.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B1098FAC10.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B1098FFA20.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B10990D640.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B10992CA60.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B10994F470.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B109961680.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B1099678B0.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B10996C8C0.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B1099722D0.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B1099762E0.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B10999ACF0.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B1099DCD30.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B1099DE740.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B1099E1F50.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B109A3F010.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B109A60830.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B109A62640.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B109A63C50.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B109A65260.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B109A78A70.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B109A876A0.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B109BD6010.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B109BDAC30.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B109C12E60.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B109C39670.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B109C5BEB0.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B109C7DEC0.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B109C828D0.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B109C84EE0.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B109F25020.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B10A20E060.dll
+Fallback handler could not load library C:/Users/johna/OneDrive/Documents/RimWorld/RimWorldWin64_Data/Mono/data-000002B10A66F010.dll
+XML error: <colorPickerEnabled>true</colorPickerEnabled> doesn't correspond to any field in type ColorOption. Context: <li><glowRadius>12</glowRadius><glowColor>(252,187,113,0)</glowColor><colorPickerEnabled>true</colorPickerEnabled><darklightToggle>true</darklightToggle></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <darklightToggle>true</darklightToggle> doesn't correspond to any field in type ColorOption. Context: <li><glowRadius>12</glowRadius><glowColor>(252,187,113,0)</glowColor><colorPickerEnabled>true</colorPickerEnabled><darklightToggle>true</darklightToggle></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <customBloodIcon>UI/Icons/Medical/VRE_BlueBleeding</customBloodIcon> doesn't correspond to any field in type GeneExtension. Context: <li Class="VanillaGenesExpanded.GeneExtension"><customBloodThingDef>VRE_Filth_BlueBlood</customBloodThingDef><customBloodIcon>UI/Icons/Medical/VRE_BlueBleeding</customBloodIcon><customBloodEffect>VRE_Damage_HitBlueFlesh</customBloodEffect><customWoundsFromFleshtype>VRE_BlueWoundsFlesh</customWoundsFromFleshtype></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <customBloodEffect>VRE_Damage_HitBlueFlesh</customBloodEffect> doesn't correspond to any field in type GeneExtension. Context: <li Class="VanillaGenesExpanded.GeneExtension"><customBloodThingDef>VRE_Filth_BlueBlood</customBloodThingDef><customBloodIcon>UI/Icons/Medical/VRE_BlueBleeding</customBloodIcon><customBloodEffect>VRE_Damage_HitBlueFlesh</customBloodEffect><customWoundsFromFleshtype>VRE_BlueWoundsFlesh</customWoundsFromFleshtype></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <customWoundsFromFleshtype>VRE_BlueWoundsFlesh</customWoundsFromFleshtype> doesn't correspond to any field in type GeneExtension. Context: <li Class="VanillaGenesExpanded.GeneExtension"><customBloodThingDef>VRE_Filth_BlueBlood</customBloodThingDef><customBloodIcon>UI/Icons/Medical/VRE_BlueBleeding</customBloodIcon><customBloodEffect>VRE_Damage_HitBlueFlesh</customBloodEffect><customWoundsFromFleshtype>VRE_BlueWoundsFlesh</customWoundsFromFleshtype></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <noSkillLoss>Shooting</noSkillLoss> doesn't correspond to any field in type GeneExtension. Context: <li Class="VanillaGenesExpanded.GeneExtension"><noSkillLoss>Shooting</noSkillLoss><skillRecreation>Shooting</skillRecreation></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <skillRecreation>Shooting</skillRecreation> doesn't correspond to any field in type GeneExtension. Context: <li Class="VanillaGenesExpanded.GeneExtension"><noSkillLoss>Shooting</noSkillLoss><skillRecreation>Shooting</skillRecreation></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <noSkillLoss>Melee</noSkillLoss> doesn't correspond to any field in type GeneExtension. Context: <li Class="VanillaGenesExpanded.GeneExtension"><noSkillLoss>Melee</noSkillLoss><skillRecreation>Melee</skillRecreation></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <skillRecreation>Melee</skillRecreation> doesn't correspond to any field in type GeneExtension. Context: <li Class="VanillaGenesExpanded.GeneExtension"><noSkillLoss>Melee</noSkillLoss><skillRecreation>Melee</skillRecreation></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <noSkillLoss>Construction</noSkillLoss> doesn't correspond to any field in type GeneExtension. Context: <li Class="VanillaGenesExpanded.GeneExtension"><noSkillLoss>Construction</noSkillLoss><skillRecreation>Construction</skillRecreation></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <skillRecreation>Construction</skillRecreation> doesn't correspond to any field in type GeneExtension. Context: <li Class="VanillaGenesExpanded.GeneExtension"><noSkillLoss>Construction</noSkillLoss><skillRecreation>Construction</skillRecreation></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <noSkillLoss>Mining</noSkillLoss> doesn't correspond to any field in type GeneExtension. Context: <li Class="VanillaGenesExpanded.GeneExtension"><noSkillLoss>Mining</noSkillLoss><skillRecreation>Mining</skillRecreation></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <skillRecreation>Mining</skillRecreation> doesn't correspond to any field in type GeneExtension. Context: <li Class="VanillaGenesExpanded.GeneExtension"><noSkillLoss>Mining</noSkillLoss><skillRecreation>Mining</skillRecreation></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <noSkillLoss>Cooking</noSkillLoss> doesn't correspond to any field in type GeneExtension. Context: <li Class="VanillaGenesExpanded.GeneExtension"><noSkillLoss>Cooking</noSkillLoss><skillRecreation>Cooking</skillRecreation></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <skillRecreation>Cooking</skillRecreation> doesn't correspond to any field in type GeneExtension. Context: <li Class="VanillaGenesExpanded.GeneExtension"><noSkillLoss>Cooking</noSkillLoss><skillRecreation>Cooking</skillRecreation></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <noSkillLoss>Plants</noSkillLoss> doesn't correspond to any field in type GeneExtension. Context: <li Class="VanillaGenesExpanded.GeneExtension"><noSkillLoss>Plants</noSkillLoss><skillRecreation>Plants</skillRecreation></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <skillRecreation>Plants</skillRecreation> doesn't correspond to any field in type GeneExtension. Context: <li Class="VanillaGenesExpanded.GeneExtension"><noSkillLoss>Plants</noSkillLoss><skillRecreation>Plants</skillRecreation></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <noSkillLoss>Animals</noSkillLoss> doesn't correspond to any field in type GeneExtension. Context: <li Class="VanillaGenesExpanded.GeneExtension"><noSkillLoss>Animals</noSkillLoss><skillRecreation>Animals</skillRecreation></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <skillRecreation>Animals</skillRecreation> doesn't correspond to any field in type GeneExtension. Context: <li Class="VanillaGenesExpanded.GeneExtension"><noSkillLoss>Animals</noSkillLoss><skillRecreation>Animals</skillRecreation></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <noSkillLoss>Crafting</noSkillLoss> doesn't correspond to any field in type GeneExtension. Context: <li Class="VanillaGenesExpanded.GeneExtension"><noSkillLoss>Crafting</noSkillLoss><skillRecreation>Crafting</skillRecreation></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <skillRecreation>Crafting</skillRecreation> doesn't correspond to any field in type GeneExtension. Context: <li Class="VanillaGenesExpanded.GeneExtension"><noSkillLoss>Crafting</noSkillLoss><skillRecreation>Crafting</skillRecreation></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <noSkillLoss>Artistic</noSkillLoss> doesn't correspond to any field in type GeneExtension. Context: <li Class="VanillaGenesExpanded.GeneExtension"><noSkillLoss>Artistic</noSkillLoss><skillRecreation>Artistic</skillRecreation></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <skillRecreation>Artistic</skillRecreation> doesn't correspond to any field in type GeneExtension. Context: <li Class="VanillaGenesExpanded.GeneExtension"><noSkillLoss>Artistic</noSkillLoss><skillRecreation>Artistic</skillRecreation></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <noSkillLoss>Medicine</noSkillLoss> doesn't correspond to any field in type GeneExtension. Context: <li Class="VanillaGenesExpanded.GeneExtension"><noSkillLoss>Medicine</noSkillLoss><skillRecreation>Medicine</skillRecreation></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <skillRecreation>Medicine</skillRecreation> doesn't correspond to any field in type GeneExtension. Context: <li Class="VanillaGenesExpanded.GeneExtension"><noSkillLoss>Medicine</noSkillLoss><skillRecreation>Medicine</skillRecreation></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <noSkillLoss>Social</noSkillLoss> doesn't correspond to any field in type GeneExtension. Context: <li Class="VanillaGenesExpanded.GeneExtension"><noSkillLoss>Social</noSkillLoss><skillRecreation>Social</skillRecreation></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <skillRecreation>Social</skillRecreation> doesn't correspond to any field in type GeneExtension. Context: <li Class="VanillaGenesExpanded.GeneExtension"><noSkillLoss>Social</noSkillLoss><skillRecreation>Social</skillRecreation></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <noSkillLoss>Intellectual</noSkillLoss> doesn't correspond to any field in type GeneExtension. Context: <li Class="VanillaGenesExpanded.GeneExtension"><noSkillLoss>Intellectual</noSkillLoss><skillRecreation>Intellectual</skillRecreation></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <skillRecreation>Intellectual</skillRecreation> doesn't correspond to any field in type GeneExtension. Context: <li Class="VanillaGenesExpanded.GeneExtension"><noSkillLoss>Intellectual</noSkillLoss><skillRecreation>Intellectual</skillRecreation></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <diseaseProgressionFactor>0.5</diseaseProgressionFactor> doesn't correspond to any field in type GeneExtension. Context: <li Class="VanillaGenesExpanded.GeneExtension"><diseaseProgressionFactor>0.5</diseaseProgressionFactor></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[MadSkills]: changed behavior of Great Memory trait.
+[CMColorCodedMoodBar] CMColorCodedMoodBar 1.4.3580.1 initialized
+[Dark.Cloning] Harmony patches patching...
+Biotech Expansion - Core Loaded!
+Biotech Expansion - Mammalia Loaded!
+Biotech Expansion - Mythic Loaded!
+Wall Light: v1.4.8348.3000
+MVCF successfully applied 24 patches
+Error while generating pawn. Rethrowing. Exception: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) [0x00029] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at (wrapper dynamic-method) RimWorld.StatWorker.RimWorld.StatWorker.GetValueUnfinalized_Patch0(RimWorld.StatWorker,RimWorld.StatRequest,bool)
+  at RimWorld.StatWorker.GetValue (RimWorld.StatRequest req, System.Boolean applyPostProcess) [0x00043] in <efb2041c6ffd48fe9bfd2a6a8ee803e9>:0 
+  at RimWorld.StatWorker.GetValue (Verse.Thing thing, Verse.Pawn pawn, System.Boolean applyPostProcess) [0x00008] in <efb2041c6ffd48fe9bfd2a6a8ee803e9>:0 
+  at RimWorld.StatExtension.GetStatValueForPawn (Verse.Thing thing, RimWorld.StatDef stat, Verse.Pawn pawn, System.Boolean applyPostProcess) [0x00006] in <efb2041c6ffd48fe9bfd2a6a8ee803e9>:0 
+  at VFECore.VerbUtility.GetVerbRangeMultiplier (Verse.Pawn pawn) [0x00000] in <f2dc52688e3d44ce81d76d1e4aceb8c2>:0 
+  at VFECore.VerbUtility.TryModifyThingsVerbs (Verse.ThingWithComps thing) [0x000f9] in <f2dc52688e3d44ce81d76d1e4aceb8c2>:0 
+  at VFECore.Pawn_ApparelTracker_Wear_Patch.Postfix (RimWorld.Pawn_ApparelTracker __instance, RimWorld.Apparel newApparel, System.Boolean dropReplacedApparel, System.Boolean locked) [0x00001] in <f2dc52688e3d44ce81d76d1e4aceb8c2>:0 
+  at (wrapper dynamic-method) RimWorld.Pawn_ApparelTracker.RimWorld.Pawn_ApparelTracker.Wear_Patch2(RimWorld.Pawn_ApparelTracker,RimWorld.Apparel,bool,bool)
+  at RimWorld.PawnApparelGenerator+PossibleApparelSet.GiveToPawn (Verse.Pawn pawn) [0x00046] in <efb2041c6ffd48fe9bfd2a6a8ee803e9>:0 
+  at (wrapper dynamic-method) RimWorld.PawnApparelGenerator.RimWorld.PawnApparelGenerator.GenerateStartingApparelFor_Patch1(Verse.Pawn,Verse.PawnGenerationRequest)
+  at (wrapper dynamic-method) Verse.PawnGenerator.Verse.PawnGenerator.GenerateGearFor_Patch2(Verse.Pawn,Verse.PawnGenerationRequest)
+  at (wrapper dynamic-method) Verse.PawnGenerator.Verse.PawnGenerator.TryGenerateNewPawnInternal_Patch1(Verse.PawnGenerationRequest&,string&,bool,bool)
+  at (wrapper dynamic-method) Verse.PawnGenerator.Verse.PawnGenerator.GenerateNewPawnInternal_Patch1(Verse.PawnGenerationRequest&)
+  at Verse.PawnGenerator.GenerateOrRedressPawnInternal (Verse.PawnGenerationRequest request) [0x00188] in <efb2041c6ffd48fe9bfd2a6a8ee803e9>:0 
+  at (wrapper dynamic-method) Verse.PawnGenerator.Verse.PawnGenerator.GeneratePawn_Patch1(Verse.PawnGenerationRequest) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Error in WorldGenStep: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) [0x00029] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at (wrapper dynamic-method) RimWorld.StatWorker.RimWorld.StatWorker.GetValueUnfinalized_Patch0(RimWorld.StatWorker,RimWorld.StatRequest,bool)
+  at RimWorld.StatWorker.GetValue (RimWorld.StatRequest req, System.Boolean applyPostProcess) [0x00043] in <efb2041c6ffd48fe9bfd2a6a8ee803e9>:0 
+  at RimWorld.StatWorker.GetValue (Verse.Thing thing, Verse.Pawn pawn, System.Boolean applyPostProcess) [0x00008] in <efb2041c6ffd48fe9bfd2a6a8ee803e9>:0 
+  at RimWorld.StatExtension.GetStatValueForPawn (Verse.Thing thing, RimWorld.StatDef stat, Verse.Pawn pawn, System.Boolean applyPostProcess) [0x00006] in <efb2041c6ffd48fe9bfd2a6a8ee803e9>:0 
+  at VFECore.VerbUtility.GetVerbRangeMultiplier (Verse.Pawn pawn) [0x00000] in <f2dc52688e3d44ce81d76d1e4aceb8c2>:0 
+  at VFECore.VerbUtility.TryModifyThingsVerbs (Verse.ThingWithComps thing) [0x000f9] in <f2dc52688e3d44ce81d76d1e4aceb8c2>:0 
+  at VFECore.Pawn_ApparelTracker_Wear_Patch.Postfix (RimWorld.Pawn_ApparelTracker __instance, RimWorld.Apparel newApparel, System.Boolean dropReplacedApparel, System.Boolean locked) [0x00001] in <f2dc52688e3d44ce81d76d1e4aceb8c2>:0 
+  at (wrapper dynamic-method) RimWorld.Pawn_ApparelTracker.RimWorld.Pawn_ApparelTracker.Wear_Patch2(RimWorld.Pawn_ApparelTracker,RimWorld.Apparel,bool,bool)
+  at RimWorld.PawnApparelGenerator+PossibleApparelSet.GiveToPawn (Verse.Pawn pawn) [0x00046] in <efb2041c6ffd48fe9bfd2a6a8ee803e9>:0 
+  at (wrapper dynamic-method) RimWorld.PawnApparelGenerator.RimWorld.PawnApparelGenerator.GenerateStartingApparelFor_Patch1(Verse.Pawn,Verse.PawnGenerationRequest)
+  at (wrapper dynamic-method) Verse.PawnGenerator.Verse.PawnGenerator.GenerateGearFor_Patch2(Verse.Pawn,Verse.PawnGenerationRequest)
+  at (wrapper dynamic-method) Verse.PawnGenerator.Verse.PawnGenerator.TryGenerateNewPawnInternal_Patch1(Verse.PawnGenerationRequest&,string&,bool,bool)
+  at (wrapper dynamic-method) Verse.PawnGenerator.Verse.PawnGenerator.GenerateNewPawnInternal_Patch1(Verse.PawnGenerationRequest&)
+  at Verse.PawnGenerator.GenerateOrRedressPawnInternal (Verse.PawnGenerationRequest request) [0x00188] in <efb2041c6ffd48fe9bfd2a6a8ee803e9>:0 
+  at (wrapper dynamic-method) Verse.PawnGenerator.Verse.PawnGenerator.GeneratePawn_Patch1(Verse.PawnGenerationRequest)
+  at RimWorld.Faction.TryGenerateNewLeader () [0x00254] in <efb2041c6ffd48fe9bfd2a6a8ee803e9>:0 
+  at RimWorld.FactionGenerator.NewGeneratedFaction (RimWorld.FactionGeneratorParms parms) [0x001f0] in <efb2041c6ffd48fe9bfd2a6a8ee803e9>:0 
+  at (wrapper dynamic-method) RimWorld.FactionGenerator.RimWorld.FactionGenerator.GenerateFactionsIntoWorld_Patch0(System.Collections.Generic.List`1<RimWorld.FactionDef>)
+  at RimWorld.Planet.WorldGenStep_Factions.GenerateFresh (System.String seed) [0x00005] in <efb2041c6ffd48fe9bfd2a6a8ee803e9>:0 
+  at RimWorld.Planet.WorldGenerator.GenerateWorld (System.Single planetCoverage, System.String seedString, RimWorld.Planet.OverallRainfall overallRainfall, RimWorld.Planet.OverallTemperature overallTemperature, RimWorld.Planet.OverallPopulation population, System.Collections.Generic.List`1[T] factions, System.Single pollution) [0x0010e] in <efb2041c6ffd48fe9bfd2a6a8ee803e9>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 24592.
+Total: 422.113000 ms (FindLiveObjects: 56.725900 ms CreateObjectMapping: 1.362900 ms MarkObjects: 362.450900 ms  DeleteObjects: 1.572800 ms)
+
+Tried loading mod with the same packageId multiple times: PeteTimesSix.SimpleSidearms. Ignoring the duplicates.
+C:\Users\johna\OneDrive\Documents\RimWorld\Mods\SimpleSidearms
+C:\Users\johna\OneDrive\Documents\RimWorld\Mods\927155256 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 3)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 24592.
+Total: 306.866200 ms (FindLiveObjects: 3.774800 ms CreateObjectMapping: 1.116000 ms MarkObjects: 301.897100 ms  DeleteObjects: 0.075600 ms)
+
+Preparing gene cache for Cloning. Found 332 GeneDefs loaded.
+
